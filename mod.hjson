@@ -1,0 +1,8 @@
+name: "wall-test"
+displayName: "Wall Test"
+author: "SillyZAK"
+description: ""
+version: "1.0"
+minGameVersion: "150.1"
+dependencies: [ ]
+hidden: false
