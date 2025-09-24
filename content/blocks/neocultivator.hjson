@@ -1,0 +1,26 @@
+type: GenericCrafter
+name: "Neocultivator"
+description: "Harvests neoplasm from the air."
+liquidCapacity: 80
+outputLiquid: {
+  liquid: neoplasm
+  amount: 1
+}
+size: 2
+hasPower: true
+hasLiquids: true
+craftTime: 10
+updateEffect: smeltsmoke
+consumes: {
+  power: 1.3334
+  liquid: water/0.3
+}
+requirements: [
+  copper/25
+  lead/25
+  silicon/10
+]
+category: crafting
+research: cultivator
+idleSound: respawning
+idleSoundVolume: 0.5
